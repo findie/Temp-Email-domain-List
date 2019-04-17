@@ -1,0 +1,16 @@
+{
+  "name": "node-email-blacklist",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "git@github.com:findie/node-email-blacklist.git",
+  "author": "dev@findie.me",
+  "license": "GPLv3",
+  "private": false,
+  "engines": {
+    "node": ">=4"
+  }
+}
